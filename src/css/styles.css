@@ -122,6 +122,13 @@ body {
   margin-bottom: 4px;
 }
 
+.load-more {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 32px;
+}
+
 @media (max-width: 600px) {
   .input-container {
     flex-direction: column;
